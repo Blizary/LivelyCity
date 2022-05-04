@@ -1,0 +1,1191 @@
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.61.0(build = 0) feature version = 0. Client runs version (prod = 1).1.61.0(build = 0) feature version = 0New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.61.0(build = 0) feature version = 0. Client runs version (prod = 1).1.61.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.61.0(build = 0) feature version = 0. Client runs version (prod = 1).1.61.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.61.0(build = 0) feature version = 0. Client runs version (prod = 1).1.61.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.61.0(build = 0) feature version = 0. Client runs version (prod = 1).1.61.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.61.0(build = 0) feature version = 0. Client runs version (prod = 1).1.61.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.61.0(build = 0) feature version = 0. Client runs version (prod = 1).1.61.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.61.0(build = 0) feature version = 0. Client runs version (prod = 1).1.61.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.61.0(build = 0) feature version = 0. Client runs version (prod = 1).1.61.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.61.0(build = 0) feature version = 0. Client runs version (prod = 1).1.61.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.61.0(build = 0) feature version = 0. Client runs version (prod = 1).1.61.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.61.0(build = 0) feature version = 0. Client runs version (prod = 1).1.61.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.61.0(build = 0) feature version = 0. Client runs version (prod = 1).1.61.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.61.0(build = 0) feature version = 0. Client runs version (prod = 1).1.61.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0onInterrupt
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+[OVRPlugin][INFO] OVRInterface plugin library location: C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64[OVRPlugin][INFO] OVRInterface plugin libraries:
+  <none>
+[OVRPlugin][INFO] OVRInterface classes and interfaces:
+    Class Id: 0x192ed17193ef5e74, class Name: OpenXRExtensionRuntime
+      Interface Id: 0x223362abe367d30a
+    Class Id: 0xb00b00067332ab1, class Name: OVRExtensionAddition
+      Interface Id: 0xb00b00053345520
+[OVRPlugin][INFO] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll[OVRPlugin][INFO] Connected to the server running version (prod = 1).1.62.0(build = 0) feature version = 0. Client runs version (prod = 1).1.62.0(build = 0) feature version = 0onInterrupt
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+Waiting on threads to park on joinable thread list timed out.
+onInterrupt
+result = 0
+result = 0
+result = 0
+result = 0
+result = 0
+result = 0
+result = 0
+result = 0
+result = 0
+result = 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+Waiting on threads to park on joinable thread list timed out.
+onInterrupt
+result = 0
+result = 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+Waiting on threads to park on joinable thread list timed out.
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+result = 0
+result = 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+Waiting on threads to park on joinable thread list timed out.
+onInterrupt
+Waiting on threads to park on joinable thread list timed out.
+result = 0
+result = 0
+exception inside UnhandledException handler: GetConfigObject can only be called from the main thread.
+Constructors and field initializers will be executed from the loading thread when loading a scene.
+Don't use this function in the constructor or field initializers, instead move initialization code to the Awake or Start function.
+
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+exception inside UnhandledException handler: GetConfigObject can only be called from the main thread.
+Constructors and field initializers will be executed from the loading thread when loading a scene.
+Don't use this function in the constructor or field initializers, instead move initialization code to the Awake or Start function.
+
+Waiting on threads to park on joinable thread list timed out.
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+result = 0
+result = 0
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+Waiting on threads to park on joinable thread list timed out.
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+onInterrupt
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+exception inside UnhandledException handler: GetConfigObject can only be called from the main thread.
+Constructors and field initializers will be executed from the loading thread when loading a scene.
+Don't use this function in the constructor or field initializers, instead move initialization code to the Awake or Start function.
+
+result = 0
+result = 0
+biosignalsplux
+biosignalsplux
+biosignalsplux
+biosignalsplux
+New Event raised: 3
+Digital input event - Clock source: 2  Clock value: 0  New input state: 0
+Waiting on threads to park on joinable thread list timed out.
